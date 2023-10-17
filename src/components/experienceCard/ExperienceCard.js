@@ -1,7 +1,6 @@
 import React from "react";
 import { Fade } from "react-reveal";
 import "./ExperienceCard.css";
-import image from "../../assets/images/crushIT.jpeg"
 function ExperienceCard(props) {
   const experience = props.experience;
   const theme = props.theme;
