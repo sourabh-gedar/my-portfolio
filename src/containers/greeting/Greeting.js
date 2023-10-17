@@ -66,7 +66,7 @@ export default function Greeting(props) {
                   className="button"
                   target="_blank"
                   rel="noopener noreferrer"
-                  // href={greeting.resumeLink}
+                  href={greeting.resumeLink}
                 >
                   Résumé
                 </a>

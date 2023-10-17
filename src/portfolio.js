@@ -17,7 +17,7 @@ const greeting = {
   subTitle2: "Life Long Learner.",
   subTitle: "Frontend Developer, Life Long Learner.",
   resumeLink:
-    "https://drive.google.com/file/d/1lFqkZnNUg5N2muUuv6qIF6so6xloY6-4/view?usp=sharing",
+    "https://drive.google.com/file/d/1P1khTlyTac68jD17mR-YlG58eSD4GSoh/view?usp=sharing",
   mail: "mailto:sumitsharma9968@gmail.com",
 };
 
