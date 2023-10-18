@@ -15,13 +15,13 @@
 <p align="center"> 
     <br />&#10023;
     <a href="#Quick-Start">Quick Start</a>   &#10023;    
-    <a href="https://github.com/sumit-sharma-02/portfolio/issues">Report Bug</a>   &#10023;
+    <a href="https://github.com/sourabh-gedar/my-portfolio/issues">Report Bug</a>   &#10023;
     <a href="#Contact">Author</a>&#10023;
   </p>
   
-  <!-- <h3 align="center"><a href="https://portfolio-sumit-sharma-02.vercel.app/"><strong>« Try the demo here »</strong></a></h3>
+  <h3 align="center"><a href="https://sourabh-gedar.vercel.app"><strong>« Try the demo here »</strong></a></h3>
   
-  ![portfolio-mockup](https://user-images.githubusercontent.com/52236473/216830515-16d7ef05-09fd-49b3-8a38-e7cc06f26d45.png)
+  <!-- ![portfolio-mockup](https://user-images.githubusercontent.com/52236473/216830515-16d7ef05-09fd-49b3-8a38-e7cc06f26d45.png)
    -->
 <br />
 
@@ -48,7 +48,7 @@
 ## Quick Start
 
 ```shell
-$ git clone https://github.com/sumit-sharma-02/portfolio.git
+$ git clone https://github.com/sourabh-gedar/my-portfolio.git
 $ cd portfolio
 $ npm install --force
 ```
