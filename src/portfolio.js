@@ -26,8 +26,10 @@ const socialMediaLinks = {
   github: "https://github.com/sourabh-gedar",
   linkedin: "https://www.linkedin.com/in/sourabh-gedar-a75991188/",
   gmail: "sourabhgedar30@gmail.com",
-  // twitter: "https://twitter.com/sumitsharma002",
 };
+
+//icons website
+// https://icon-sets.iconify.design/simple-icons/nodedotjs/
 
 const skills = {
   data: [
@@ -108,7 +110,7 @@ const skills = {
         // },
         {
           skillName: "NodeJS",
-          fontAwesomeClassname: "simple-icons:node-dot-js",
+          fontAwesomeClassname: "simple-icons:nodedotjs",
           style: {
             color: "#339933",
           },
@@ -207,13 +209,6 @@ const skills = {
             color: "#4479A1",
           },
         },
-        // {
-        //   skillName: "PostgreSQL",
-        //   fontAwesomeClassname: "simple-icons:postgresql",
-        //   style: {
-        //     color: "#4479A1",
-        //   },
-        // },
         {
           skillName: "Git",
           fontAwesomeClassname: "simple-icons:git",
@@ -221,13 +216,6 @@ const skills = {
             color: "#E94E32",
           },
         },
-        // {
-        //   skillName: "C++",
-        //   fontAwesomeClassname: "simple-icons:cplusplus",
-        //   style: {
-        //     color: "#E94E32",
-        //   },
-        // },
         {
           skillName: "Python",
           fontAwesomeClassname: "simple-icons:python",
