@@ -11,7 +11,7 @@ function ExperienceCard(props) {
           className="experience-card experience-card-1"
           style={{ backgroundColor: "#ffffff" }}
         >
-          <div className="experience-company-logo">
+          <div className="experience-company-logo" onClick={()=>window.open(experience.company_url,'_black')}>
             <img
               src={require(`../../assets/images/${experience.logo_path}`)}
               className="featured-image"

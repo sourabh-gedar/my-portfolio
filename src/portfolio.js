@@ -504,18 +504,30 @@ const experience = {
   title: "Experience",
   subtitle: "Work and Apprenticeship",
   description:
-    "I've over 2 years of experience as a front-end developer. I've worked on building products for multiple stakeholders in Oaktree software as well as my personal projects.",
+    "I have over 3 years of experience as a Software developer, having built products for multiple stakeholders at Codezilla and Oaktree Software, as well as contributing to a range of personal projects.",
   header_image_path: "experience.svg",
   sections: {
     title: "Work Experience",
     experiences: [
       {
+        title: "Software Engineer",
+        company: "Codezilla",
+        company_url: "https://codezilla.io/",
+        logo_path: "codezilla-logo.svg",
+        alt_name: "infosys-logo",
+        duration: "(Dec, 2023 - Present)",
+        location: "Remote",
+        description:
+          "<li>Managed application state using Redux, RTK Query, and Redux-Saga, ensuring efficient data handling and real-time updates.</li><li>I led and supported the team, providing guidance in development and ensuring quality through code reviews.</li><li>Responsible for creating web applications using the latest libraries and tools, such as Next.js and React. Also utilized TypeScript for strict data typing.</li><li> Collaborated with cross-functional teams, including designers, developers, and product managers, to achieve project goals.</li><li>Implemented server-side rendering (SSR) using Next.js for improved performance and SEO.</li><li>Integrated RESTful APIs and GraphQL to connect frontend applications with backend services.</li><li>Maintained regular communication with clients to provide updates, gather feedback, and ensure satisfaction.</li>",
+        color: "#0071C5",
+      }
+      , {
         title: "Software Developer",
         company: "Oak Tree Software",
-        company_url: "https://www.infosys.com/",
+        company_url: "https://www.oaktreecloud.com/",
         logo_path: "oaktreelogo.png",
         alt_name: "infosys-logo",
-        duration: "(Nov, 2023 - Present)",
+        duration: "(Dec, 2022 - Nov, 2023)",
         location: "Remote",
         description:
           "<li>I played a significant role in the development of Censio Analytics, a versatile system featuring multiple roles, including admin, university user, generic user, and UDC admin. These roles operate dynamically through seamless API integration.</li><li>In addition, I was responsible for integrating multiple APIs to populate project data and implemented data manipulation using Redux Thunk.</li><li>Furthermore, I actively contributed to the maintenance of a freelancing platform, where I created numerous pages by integrating APIs. This project is built on React using class-based components.</li><li>I made contributions to Kaleidoscope, a scholarship-related project. My work involved updating the Next.js version and creating new route pages, such as those for donations and disbursements.</li>",
@@ -524,7 +536,7 @@ const experience = {
       {
         title: "Associate Software Developer",
         company: "Oak Tree Software",
-        company_url: "https://www.infosys.com/",
+        company_url: "https://www.oaktreecloud.com/",
         logo_path: "oaktreelogo.png",
         alt_name: "infosys-logo",
         duration: "(July, 2021 - Nov, 2022)",
@@ -537,13 +549,12 @@ const experience = {
         title: "Pythone Developer Trainee",
         company: "Crush IT Techno",
         company_url: "http://www.crushittechno.in/",
-        logo_path: "crushIT.jpeg",
-        // logo_path: "crushIT.jpeg",
+        logo_path: "whiteCrushIT.png",
         alt_name: "infosys-logo",
         duration: "(Jan, 2022 - July, 2022)",
         location: "Remote",
         description:
-          "<li>Additionally, I have experience in developing a text correction tool using Python and Django.</li><li>I have acquired skills in front- end technologies such as HTML, CSS, and JavaScript.</li> <li>I have worked on multiple projects, including the creation of a calculator and the Starkbus website.</li> ",
+          "<li>Additionally, I have experience in developing a text correction tool using Python and Django.</li><li>I have acquired skills in front- end technologies such as HTML, CSS, and JavaScript.</li> <li>I have worked on multiple projects, including the creation of a calculator and the Starkbus website.</li><li>Active in coding communities or forums to stay updated with industry trends and best practices.</li><li>Willing to learn and adapt to new technologies and frameworks as needed. Demonstrated ability to quickly acquire new skills through self-study, online courses</li>",
         color: "#0071C5",
       },
     ],
@@ -751,7 +762,7 @@ const projects = {
         },
       ],
     },
-    
+
   ],
 };
 

@@ -25,6 +25,14 @@
   }
 }
 
+@media only screen and (max-width: 400px) {
+  .experience-cards {
+    overflow: hidden;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
 .accord-panel {
   font-family: "Google Sans Regular";
 }
