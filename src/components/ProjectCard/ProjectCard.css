@@ -22,6 +22,7 @@
   0% {
     transform: translateX(100%);
   }
+
   100% {
     transform: translateX(0%);
   }
@@ -152,5 +153,23 @@
 
   .repo-creation-date {
     font-size: 14px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .project-card-div {
+    padding: 1rem;
+  }
+
+  .project-card-overlay {
+    margin: -1rem;
+  }
+
+  .repo-path-links {
+    padding: 1rem 0rem 0rem 0rem;
+  }
+
+  .repo-description {
+    line-height: 1.5rem;
   }
 }
