@@ -572,9 +572,176 @@ const projectsHeader = {
 const projects = {
   data: [
     {
+      id: "nolo-boss-8",
+      name: "Nolo Boss",
+      url: "https://www.nolo-boss.com/",
+      description:
+        "I developed a car rental application featuring portals for contractors, admin, and the company, with a rental website offering multiple themes. I managed daily tasks and merges for production and staging, ensured cross-browser compatibility, and optimized performance. Additionally, I conducted code reviews, mentored junior developers, and integrated Redux and Saga for efficient data management.",
+      languages: [
+        {
+          name: "React",
+          iconifyClass: "logos:react",
+        },
+        {
+          name: "Redux-Saga",
+          iconifyClass: "logos:redux-saga",
+        },
+        {
+          "name": "Material-UI",
+          "iconifyClass": "logos:material-ui"
+        },
+        {
+          name: "Javascript",
+          iconifyClass: "logos:javascript",
+        },
+        {
+          name: "Node Js",
+          iconifyClass: "logos:nodejs-icon",
+        },
+        {
+          name: "MongoDB  ",
+          iconifyClass: "logos:mongodb-icon",
+        },
+        {
+          name: "NPM",
+          iconifyClass: "devicon:npm-wordmark",
+        },
+        {
+          name: "Redux",
+          iconifyClass: "logos:redux",
+        },
+        {
+          "name": "Bitbucket",
+          "iconifyClass": "logos:bitbucket"
+        },
+        {
+          "name": "React Router",
+          "iconifyClass": "logos:react-router"
+        },
+        {
+          "name": "Git",
+          "iconifyClass": "logos:git"
+        },
+        {
+          "name": "Git",
+          "iconifyClass": "logos:github-icon"
+        },
+        {
+          "name": "Google Analytics",
+          "iconifyClass": "logos:google-analytics"
+        },
+      ],
+    },
+    {
+      id: "project-1",
+      name: "Talfoundry",
+      url: "https://talfoundry.com/",
+      description:
+        "Talfoundry is freelancers platform, where freelancers and businesses unite to unleash creativity and expertise. Our platform seamlessly connects talented freelancers with project-driven clients, empowering both to thrive in the world of remote work. Freelancers can showcase their skills, bid on exciting projects, and build their careers, while businesses and project managers can tap into a diverse talent pool to bring their ideas to life. With secure transactions, transparent communication, and a vibrant community, [Your Freelancing Platform Name] is where freelancing dreams become reality.",
+      languages: [
+        {
+          name: "React",
+          iconifyClass: "logos:react",
+        },
+        {
+          name: "Redux",
+          iconifyClass: "logos:redux",
+        },
+        {
+          name: "Stripe",
+          iconifyClass: "logos:stripe",
+        },
+        {
+          name: "Firebase",
+          iconifyClass: "logos:firebase",
+        },
+        {
+          name: "Ruby",
+          iconifyClass: "logos:ruby",
+        },
+        {
+          name: "PostgreSql",
+          iconifyClass: "logos:postgresql",
+        },
+        {
+          name: "AWS",
+          iconifyClass: "logos:aws",
+        },
+        {
+          name: "Bootstrap",
+          iconifyClass: "logos:bootstrap",
+        },
+        {
+          name: "SCSS",
+          iconifyClass: "vscode-icons:file-type-scss2",
+        },
+        {
+          name: "NPM",
+          iconifyClass: "devicon:npm-wordmark",
+        },
+      ],
+    },
+    {
+      id: "mykaleidoscope-48",
+      name: "Kaleidoscope",
+      url: "https://apply.mykaleidoscope.com/",
+      description:
+        "I have worked on Kaleidoscope, a large-scale project built with Next.js. This project is based on scholarships where multiple students apply, and promoters provide scholarship schemes. My role involved maintaining the project and adding new screens according to client requirements.",
+      languages: [
+        {
+          name: "Next Js",
+          iconifyClass: "logos:nextjs-icon",
+        },
+        {
+          name: "Redux",
+          iconifyClass: "logos:redux",
+        },
+        {
+          name: "Ruby",
+          iconifyClass: "logos:ruby",
+        },
+        {
+          name: "PostgreSql",
+          iconifyClass: "logos:postgresql",
+        },
+        {
+          name: "AWS",
+          iconifyClass: "logos:aws",
+        },
+        {
+          name: "Heroku",
+          iconifyClass: "logos:heroku",
+        },
+        {
+          name: "Bootstrap",
+          iconifyClass: "logos:bootstrap",
+        },
+        {
+          name: "SCSS",
+          iconifyClass: "vscode-icons:file-type-scss2",
+        },
+        {
+          name: "NPM",
+          iconifyClass: "devicon:npm-wordmark",
+        },
+        {
+          name: "Javascript",
+          iconifyClass: "logos:javascript",
+        },
+        {
+          "name": "Bitbucket",
+          "iconifyClass": "logos:bitbucket"
+        },
+        {
+          "name": "Git",
+          "iconifyClass": "logos:git"
+        },
+      ],
+    },
+    {
       id: "project-0",
       name: "Censio Analytics",
-      url: "https://staging.censioanalytics.com/",
+      url: "https://censioanalytics.com/",
       description:
         "Censio technology effectively measures the psychological underpinnings of student attrition via game-based assessments and predicts dropout risk in real time.",
       languages: [
@@ -629,52 +796,56 @@ const projects = {
       ],
     },
     {
-      id: "project-1",
-      name: "Talfoundry",
-      url: "https://talfoundry.com/",
+      id: "project-0-1",
+      name: "Usedo",
+      url: " https://usedo.vercel.app/en-kw",
       description:
-        "Talfoundry is freelancers platform, where freelancers and businesses unite to unleash creativity and expertise. Our platform seamlessly connects talented freelancers with project-driven clients, empowering both to thrive in the world of remote work. Freelancers can showcase their skills, bid on exciting projects, and build their careers, while businesses and project managers can tap into a diverse talent pool to bring their ideas to life. With secure transactions, transparent communication, and a vibrant community, [Your Freelancing Platform Name] is where freelancing dreams become reality.",
+        "I built an e-commerce site with Next.js, utilizing RTK Query for efficient data fetching. I managed the codebase in Bitbucket, designed the UI with Material UI, and conducted user testing for improvements. I also implemented Server-Side Rendering (SSR) for enhanced SEO.",
       languages: [
         {
-          name: "React",
-          iconifyClass: "logos:react",
+          name: "Next Js",
+          iconifyClass: "logos:nextjs-icon",
         },
         {
           name: "Redux",
           iconifyClass: "logos:redux",
         },
         {
-          name: "Stripe",
-          iconifyClass: "logos:stripe",
+          name: "Node Js",
+          iconifyClass: "logos:nodejs-icon",
         },
         {
-          name: "Firebase",
-          iconifyClass: "logos:firebase",
+          name: "MongoDB  ",
+          iconifyClass: "logos:mongodb",
         },
         {
-          name: "Ruby",
-          iconifyClass: "logos:ruby",
+          "name": "Material-UI",
+          "iconifyClass": "logos:material-ui"
         },
         {
-          name: "PostgreSql",
-          iconifyClass: "logos:postgresql",
+          "name": "Yarn",
+          "iconifyClass": "logos:yarn"
         },
         {
-          name: "AWS",
-          iconifyClass: "logos:aws",
+          name: "TypeScript",
+          iconifyClass: "logos:typescript-icon",
         },
         {
-          name: "Bootstrap",
-          iconifyClass: "logos:bootstrap",
+          "name": "Bitbucket",
+          "iconifyClass": "logos:bitbucket"
         },
         {
-          name: "SCSS",
-          iconifyClass: "vscode-icons:file-type-scss2",
+          "name": "Docker",
+          "iconifyClass": "logos:docker"
         },
         {
-          name: "NPM",
-          iconifyClass: "devicon:npm-wordmark",
+          "name": "Git",
+          "iconifyClass": "logos:git"
         },
+        {
+          "name": "Git",
+          "iconifyClass": "logos:github-icon"
+        }
       ],
     },
     {
