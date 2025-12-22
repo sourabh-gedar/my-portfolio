@@ -1,7 +1,8 @@
 import React from "react";
 // import myImage from "../../assets/images/newmayimage3.png";
 // import darkTest from "../../assets/images/olePenting4.png"
-import circleMyimage from "../../assets/images/CircleIMyImage70.png"
+// import circleMyimage from "../../assets/images/CircleIMyImage70.png"
+import circleMyimage from "../../assets/images/webImageMy2.png"
 import "./FeelingProud.css";
 
 function FeelingProud(props) {
@@ -9,7 +10,7 @@ function FeelingProud(props) {
   return <img src={
     props.theme.name === 'light' ? circleMyimage :
     circleMyimage
-  } alt="portfolio-profile" />;
+  } alt="portfolio-profile" className="feeling-proud-image"/>;
 }
 
 export default FeelingProud;

@@ -305,3 +305,7 @@
     transform: scale(0.96);
   }
 }
+
+.feeling-proud-image {
+  border-radius: 50%;
+}
