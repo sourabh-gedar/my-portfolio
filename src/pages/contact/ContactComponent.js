@@ -20,7 +20,7 @@ export default function Contact(props) {
             <div className="contact-heading-img-div">
               <img
                 className="profile-pic"
-                src={require(`../../assets/images/CircleIMyImage70.png`)}
+                src={require(`../../assets/images/webImageMy2.png`)}
                 alt=""
               />
             </div>
