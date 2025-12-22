@@ -13,9 +13,9 @@ const greeting = {
   logo_name: "Sourabh Gedar",
   // nickname: "harry / picleric",
   full_name: "Sourabh Gedar",
-  subTitle1: "Frontend Developer.",
+  subTitle1: "Full Stack Developer.",
   subTitle2: "Life Long Learner.",
-  subTitle: "Frontend Developer, Life Long Learner.",
+  subTitle: "Full Stack Developer, Life Long Learner.",
   resumeLink:
     "https://drive.google.com/file/d/1Y8rQR6aari4Klp1rVU_gdyZ0xchPnhr4/view?usp=drive_link",
   mail: "mailto:sourabhgedar30@gmail.com",
